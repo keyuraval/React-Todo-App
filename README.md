@@ -8,10 +8,10 @@ Todo app with functionalities of Insert,Delete and Update Todo
 Here is a working live demo : https://tuuduuu.netlify.app/
 ## Site
 
-Landing Page
+**Landing Page**
 ![1](https://user-images.githubusercontent.com/96626624/184004685-10e71bcd-aea0-489c-bf44-16e1536c64b3.jpg)
 
-
+**#Insert**
 ![2](https://user-images.githubusercontent.com/96626624/184004726-9ed7f951-ca59-42e8-a49e-33d62dfddf1a.jpg)
 
 **#Update**
